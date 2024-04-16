@@ -1,4 +1,4 @@
-# Titanic Survival Analysis and Decision Tree
+# Titanic Survival Analysis using Decision Tree
 
 The code performs analysis on Titanic survival data and implements a decision tree model to predict survival based on various features. It includes data preprocessing, visualization, entropy calculation, decision tree training, and evaluation using confusion matrix and precision-recall-f1 scores.
 
