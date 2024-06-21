@@ -10,6 +10,7 @@ The code performs analysis on Titanic survival data and implements a decision tr
 - Decision Tree Training and Inference
 - Confusion Matrix Computation
 - Precision, Recall, and F1-score Calculation
+
 ## Note:
 
 - The code is structured into logical segments for easy comprehension and modification.
